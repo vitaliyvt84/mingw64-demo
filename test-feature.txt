@@ -1,2 +1,5 @@
 Some text for first
 commit in branch 'feature'
+
+add two more strings
+to this file
