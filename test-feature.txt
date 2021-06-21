@@ -1,0 +1,2 @@
+Some text for first
+commit in branch 'feature'
